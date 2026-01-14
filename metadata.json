@@ -1,0 +1,7 @@
+{
+  "name": "Apex Prime Construction",
+  "description": "A high-end, professional construction business website featuring service showcases, project galleries, and industrial design aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
