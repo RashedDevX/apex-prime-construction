@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Apex Prime Construction Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Apex Prime Construction Banner" src="https://github.com/RashedDevX/apex-prime-construction/blob/main/Screenshot_107.png" />
 
 # 🏗️ Apex Prime Construction
 **Building the Future with Precision, Strength, and Integrity.**
